@@ -19,3 +19,27 @@ footer {
 .white-back {
     background-color: #ffffff;
 }
+
+/* img {
+    z-index: 0;
+}
+
+.text-over-img {
+    z-index: 1;
+    font-size: 1.2em;
+    margin-top: -100px;
+} */
+
+h3 {
+    clear: both;
+    display: inline-block;
+    position: relative;
+    left: 0;
+    bottom: 65px;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 24px;
+    padding: 15px;
+    text-align: center;
+    width: 300px;
+}
